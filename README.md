@@ -1,0 +1,2 @@
+# mystrapi
+strapiapp deployment
